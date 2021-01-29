@@ -1,31 +1,31 @@
 ---
 anchor: "About"
 header: "About"
-subheader: "A list of my skills."
+subheader: "My professional experience."
 timeline: [
   {
     imageFileName: "about/1.jpg",
-    header: "Programming Languages",
-    subheader: "",
-    content: "JavaScript - Python - Java."
+    header: "Technical Intsructor",
+    subheader: "Jupiter Leo Production",
+    content: "Taught classes in the basics of web development"
   },
   {
     imageFileName: "about/2.jpg",
-    header: "Back-end",
-    subheader: "",
-    content: "Django - Flask - Spring Boot - Node Express."
+    header: "Full-Stack Software Engineer",
+    subheader: "FrogShop",
+    content: "Built merchant portal front-end using React and Next.js for server side rendering"
   },
   {
     imageFileName: "about/3.jpg",
-    header: "Front-end",
-    subheader: "",
-    content: "React - Redux - Gatsby - Next.JS - CSS - SASS."
+    header: "Instrcutional Associate",
+    subheader: "General Assmbly",
+    content: "Supervised students in the completion of their work and projects."
   },
   {
     imageFileName: "about/4.jpg",
-    header: "Databases",
-    subheader: "",
-    content: "PostreSQL - MySQL - MongoDB - Firebase."
+    header: "Instrcutional Lead",
+    subheader: "Per scholas",
+    content: "Leading classes through rigorous course material teaching Full-Stack Web Development."
   },
   {
     imageContent: "Be Part\r\nOf My\r\nStory!"
