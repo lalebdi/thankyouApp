@@ -48,7 +48,7 @@ This is my porfolio site that I created using Gastby. Hope you like it. Must use
 * Bootstrap
 * Google analytics
 * SASS
-* Font-Awesome
+* i18n support.
 
 
 
