@@ -65,7 +65,7 @@ git clone https://github.com/lalebdi/GatsbyPorfolioTemplate.git
 ```sh
 yarn install
 ```
-2. Launch the app
+3. Launch the app
 ```sh
 Gatsby develop
 ```
