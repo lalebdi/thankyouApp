@@ -1,5 +1,5 @@
 ---
-brand: "Leah Ingeniería de software"
+brand: "Angel Juarez"
 menuText: "Menú"
 ---
 
