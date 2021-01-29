@@ -1,7 +1,7 @@
 ---
 anchor: ""
 header: "blah"
-subheader: "blah blah"
+subheader: "blah  blah"
 services: [
   {
     iconName: "ShoppingCartIcon",

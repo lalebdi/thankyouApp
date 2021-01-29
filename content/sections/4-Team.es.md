@@ -2,7 +2,7 @@
 anchor: ""
 header: "blah blah"
 subheader: "blah blah"
-content: "blah blah"
+content: "blah  blah"
 teamMember: [
   {
     imageFileName: "team/1.jpg",
