@@ -1,12 +1,12 @@
 ---
 anchor: ""
-header: "チーム"
-subheader: "あなたは偶然断然その持通りについて事のためにまかり出ですた。"
-content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
+header: "blah blah"
+subheader: "blah blah"
+content: "blah blah"
 teamMember: [
   {
     imageFileName: "team/1.jpg",
-    header: "Kay Garland",
+    header: "Kay ",
     subheader: "Lead Designer",
     social: {
       twitter: "#",
@@ -16,7 +16,7 @@ teamMember: [
   },
   {
     imageFileName: "team/2.jpg",
-    header: "Larry Parker",
+    header: "Larry ",
     subheader: "Lead Marketer",
     social: {
       twitter: "#",
@@ -26,7 +26,7 @@ teamMember: [
   },
   {
     imageFileName: "team/3.jpg",
-    header: "Diana Pertersen",
+    header: "Diana ",
     subheader: "Lead Developer",
     social: {
       twitter: "#",
