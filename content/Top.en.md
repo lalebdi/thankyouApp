@@ -1,5 +1,5 @@
 ---
-header: "a motivated Full-Stack Software Engineer."
+header: "a motivated Full-Stack Web Developer."
 subheader: "Hi! I'm Angel,"
 imageFileName: "header-bg.jpg"
 jumpToAnchor: "Contact"
