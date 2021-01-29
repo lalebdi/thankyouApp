@@ -2,8 +2,8 @@
 copyright: "Copyright © Leah software Engineering 2020"
 social: {
   facebook: "#",
-  linkedin: "leah-web-dev",
-  github: "lalebdi"
+  linkedin: "angel-juarez729",
+  github: "angeljuarez77"
 }
 privacyText: "Privacy Policy"
 privacyHref: "#!"
