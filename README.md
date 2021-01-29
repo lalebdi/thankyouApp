@@ -36,6 +36,7 @@ This is my porfolio site that I created using Gastby. Hope you like it. Must use
 
 * Gatsby is a static site generator.
 * Fast, Safe and secure.
+*  Built with i18n.
 *  :smile:
 
 
