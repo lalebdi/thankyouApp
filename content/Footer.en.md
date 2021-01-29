@@ -1,5 +1,5 @@
 ---
-copyright: "Copyright © Leah software Engineering 2020"
+copyright: "Copyright © Angel Juarez porfolio 2020"
 social: {
   facebook: "#",
   linkedin: "angel-juarez729",
