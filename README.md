@@ -59,11 +59,15 @@ This is my porfolio site that I created using Gastby. Hope you like it. Must use
 
 1. Clone the repo
 ```sh
-git clone https://github.com/lalebdi/myNewPortfolio.git
+git clone https://github.com/lalebdi/GatsbyPorfolioTemplate.git
 ```
 2. Install packages
 ```sh
 yarn install
+```
+2. Launch the app
+```sh
+Gatsby develop
 ```
 
 
