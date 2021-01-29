@@ -1,5 +1,5 @@
 ---
-copyright: "Copyright © Angel Juarez porfolio 2020"
+copyright: "Copyright © Angel Juarez porfolio 2021"
 social: {
   facebook: "#",
   linkedin: "angel-juarez729",
