@@ -73,12 +73,12 @@ Gatsby develop
 
 <!-- Configuration -->
 ## Configuration
-* This is so important so I'm gonna say it again, only use yarn. NPM for some reason gives errors.
+* This is so important so I'm gonna say it again, only use yarn only. NPM for some reason gives errors.
 * All contents can be configured in the markdown files in the content directory.
 * The Analytics settings are in the site.js file in the config directory.
 * The app's main title can be changed in the top-index.jsx in the src/templates directory.
 * There are commented out sections that you can use in case you want to add them such as Services, Clients and testimonials. You can unhide these components in the index.js in the src/views/sections directory.
-* The facebook tag in the Footer md files is not the facebook logo. It is a misnomer I used so you can link your resume for viewing and downloading. (don't put your facebook there).
+* The facebook tag in the Footer.md files is not the facebook logo. It is a misnomer I used so you can link your resume for viewing and downloading. (don't put your facebook there).
 
 
 
