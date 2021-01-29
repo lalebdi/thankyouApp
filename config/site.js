@@ -12,7 +12,7 @@ module.exports = {
   ],
   description: "Angel Juarez Web Development.",
   author: "lalebdi",
-  trackingId: "G-X5132XV2CY",
+  trackingId: "G-7F9B507JX0",
   defaultLang: "en",
   langTextMap: {
     en: "English",
