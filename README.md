@@ -21,6 +21,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Configuration](#configuration)
+* [Prerequisites](#prerequisites)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [License](#license)
@@ -51,7 +52,19 @@ This is my porfolio site that I created using Gastby. Hope you like it. Must use
 * i18n support.
 
 
+<!-- GETTING STARTED -->
+## Getting Started
 
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install -g gatsby-cli
+  ```
 
 
 ### Installation
