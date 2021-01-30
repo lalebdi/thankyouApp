@@ -20,6 +20,7 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
+* [Getting Started](#getting-started)
 * [Configuration](#configuration)
 * [Prerequisites](#prerequisites)
 * [Usage](#usage)
@@ -55,12 +56,11 @@ This is my porfolio site that I created using Gastby. Hope you like it. Must use
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+There are few things you need to install on you local machine to be able to configure the app.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+First you need to install Gastby cli.
 * npm
   ```sh
   npm install -g gatsby-cli
