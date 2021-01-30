@@ -21,8 +21,9 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-* [Configuration](#configuration)
 * [Prerequisites](#prerequisites)
+* [Installation](#installation)
+* [Configuration](#configuration)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [License](#license)
@@ -64,6 +65,9 @@ First you need to install Gastby cli.
 * npm
   ```sh
   npm install -g gatsby-cli
+  ```
+    ```sh
+  brew install gatsby-cli
   ```
 
 
