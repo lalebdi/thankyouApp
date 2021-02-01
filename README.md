@@ -66,6 +66,7 @@ First you need to install Gastby cli.
   ```sh
   npm install -g gatsby-cli
   ```
+* Or use Homebrew...
     ```sh
   brew install gatsby-cli
   ```
